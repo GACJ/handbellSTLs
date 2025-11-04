@@ -6,7 +6,7 @@ STLs for 3D printing of dummy handbells that can be used with change ringing sim
 90mm bell - support is needed for the button shafts and the electronics tunnel; print from same material as 3mm plug and electronics cap. 
 
 Handle - support is needed for the overhang at the end of the square section, otherwise it tends to droop; print from same material as grommit and bell cap.
-
+*04/11/2025 - Updated with v11 handle and wire clip also minimalist eBell housing (unweighted)
 *22/11/2020 - Updated with v10 handle design with integrated cable clamp for rubber sleeved cable.
 
 Bill of parts contains links to online suppliers
